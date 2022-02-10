@@ -1,0 +1,21 @@
+// Completo 100%
+
+iniciar-programa
+    inicia-ejecucion
+        repetir 7 veces
+        	coge-zumbador;
+        repetir 3 veces inicio
+        	avanza;
+        	deja-zumbador;
+        	avanza;
+        	deja-zumbador;
+            repetir 3 veces
+        		gira-izquierda;
+        fin;
+        avanza;
+        deja-zumbador;
+        avanza;
+        repetir 3 veces
+        	gira-izquierda;
+    termina-ejecucion
+finalizar-programa

@@ -1,0 +1,12 @@
+// Completo 100%
+
+iniciar-programa
+    inicia-ejecucion
+        mientras frente-libre hacer inicio
+        	avanza;
+        fin;
+        repetir 3 veces
+        	gira-izquierda;
+        apagate;
+    termina-ejecucion
+finalizar-programa

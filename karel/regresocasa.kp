@@ -1,0 +1,11 @@
+// Karel.js
+// Completo 100%
+
+iniciar-programa
+    inicia-ejecucion
+        avanza;
+        avanza;
+        avanza;
+        apagate;
+    termina-ejecucion
+finalizar-programa

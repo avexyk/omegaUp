@@ -1,0 +1,7 @@
+// Completo 100%
+
+iniciar-programa
+    inicia-ejecucion
+        avanza;
+    termina-ejecucion
+finalizar-programa
